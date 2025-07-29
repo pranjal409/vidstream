@@ -9,7 +9,7 @@ import { AiOutlineBell } from "react-icons/ai";
 import { useNavigate } from "react-router-dom";
 
 import profile from "../images/profile.png";
-import logo from "..images/Vidstream logo2.png";
+import logo from "../images/Vidstream logo2.png";
 import { useUtils } from "../context/UtilsContext";
 
 function navbar() {
