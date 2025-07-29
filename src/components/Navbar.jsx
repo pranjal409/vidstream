@@ -8,8 +8,8 @@ import { RiVideoAddLine } from "react-icons/ri";
 import { AiOutlineBell } from "react-icons/ai";
 import { useNavigate } from "react-router-dom";
 
-import profile from "/Users/Pranjal Singh/Desktop/Vidstream/src/images/profile.png";
-import logo from "/Users/Pranjal Singh/Desktop/Vidstream/src/images/Vidstream logo2.png";
+import profile from "../images/profile.png";
+import logo from "..images/Vidstream logo2.png";
 import { useUtils } from "../context/UtilsContext";
 
 function navbar() {
